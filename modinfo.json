@@ -1,0 +1,20 @@
+{
+  "Type": 1,
+  "TextureSize": 32,
+  "Name": "nobellsdrifters-v1.0.1",
+  "Version": "1.0.1",
+  "NetworkVersion": null,
+  "Description": "Mod to stop Bells and Drifters from spawning. I choose to keep Locusts for the Temporal Tinkerer mod.",
+  "Website": "https://github.com/CaptainCJH/Vintage-Story-No-Bells-Drifters",
+  "ModID": "nobellsdrifters",
+  "Authors": [
+    "CJHKnight2"
+  ],
+  "Contributors": [],
+  "Side": "Universal",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "Dependencies": {
+	"game": "1.4.7"
+  }
+}
